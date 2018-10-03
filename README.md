@@ -1,5 +1,5 @@
 # What is this
-This is nikola `shortcode` plugin made based on [notebook_shortcode](https://plugins.getnikola.com/#notebook_shortcode).
+This is a nikola `shortcode` plugin made based on [notebook_shortcode](https://plugins.getnikola.com/#notebook_shortcode).
 
 I changed the following.
 
